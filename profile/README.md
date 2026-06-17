@@ -7,23 +7,23 @@ Aqui centralizamos os **repositórios, projetos e iniciativas técnicas** desenv
 
 ## 📂 Projetos da Organização
 
-### 📌 Sistema de Gestão Administrativa
-🔗 Repositório: https://github.com/org-ti/sistema-gestao-administrativa  
+### 📌 Avaliação de Desempenho
+🔗 Repositório: https://github.com/DETIN-PROJETOS/avaliacao-desempenho
 
-> Aplicação responsável pelo gerenciamento de processos internos, usuários e fluxos administrativos.
+> Aplicação responsável pelo gerenciamento de avaliações de desempenho do CRM-TO.
 
 ---
 
-### 📌 API de Integração de Dados
-🔗 Repositório: https://github.com/org-ti/api-integracao-dados  
+### 📌 Sistema PEI
+🔗 Repositório: https://github.com/DETIN-PROJETOS/planejamento_estategico_institucional
 
-> API REST para integração entre sistemas internos e externos, com autenticação e versionamento.
+> Sistema de planejamento estrategico elencando metas e outros pontos para o ambito institucional do CRM-TO.
 
 ---
 
 ## 👥 Equipe de TI
 
-Este espaço é mantido pela equipe de **Tecnologia da Informação**, responsável pelo desenvolvimento, manutenção e evolução dos sistemas institucionais.
+Este espaço é mantido pela equipe de **DETIN**, responsável pelo desenvolvimento, manutenção e evolução dos sistemas institucionais.
 
 ---
 
