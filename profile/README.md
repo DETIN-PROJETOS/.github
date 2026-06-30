@@ -1,4 +1,4 @@
-# 🚀 Organização de TI – [DETIN]
+# 🚀 Organização de TI – DETIN
 
 Bem-vindo(a) à organização oficial do **DETIN**.  
 Aqui centralizamos os **repositórios, projetos e iniciativas técnicas** desenvolvidas pela equipe, com foco em **qualidade, padronização e inovação**.
@@ -7,17 +7,13 @@ Aqui centralizamos os **repositórios, projetos e iniciativas técnicas** desenv
 
 ## 📂 Projetos da Organização
 
-### 📌 Avaliação de Desempenho
-🔗 Repositório: https://github.com/DETIN-PROJETOS/avaliacao-desempenho
+### 📌 PEI — Sistema de Gestão de Indicadores Estratégicos
+🔗 Repositório: https://github.com/DETIN-PROJETOS/pei
 
-> Aplicação responsável pelo gerenciamento de avaliações de desempenho do CRM-TO.
-
----
-
-### 📌 Sistema PEI
-🔗 Repositório: https://github.com/DETIN-PROJETOS/planejamento_estategico_institucional
-
-> Sistema de planejamento estrategico elencando metas e outros pontos para o ambito institucional do CRM-TO.
+> **Planejamento Estratégico Institucional** do CRM-TO.  
+> Sistema completo para cadastro, lançamento, acompanhamento e auditoria de indicadores de desempenho, com dashboard interativo, gestão de evidências e trilha de auditoria.
+>
+> **Stack:** Flask + PostgreSQL 16 + Docker + Cloudflare Tunnel
 
 ---
 
