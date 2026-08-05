@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/CRM--TO-DETIN-0A7EA4?style=for-the-badge&logo=shield&logoColor=white" alt="CRM-TO DETIN"/>
 </p>
 
-<h1 align="center">🚀 DETIN — Divisão de Tecnologia da Informação</h1>
+<h1 align="center">🚀 DETIN — Departamento de Tecnologia da Informação e Estatística</h1>
 
 <p align="center">
   <b>Conselho Regional de Medicina do Tocantins (CRM-TO)</b><br/>
@@ -24,7 +24,7 @@
 
 ## 🏛️ Quem somos
 
-A **Divisão de Tecnologia da Informação (DETIN)** é a unidade responsável pelo desenvolvimento, manutenção e evolução das soluções tecnológicas do CRM-TO.
+A **Divisão de Tecnologia da Informação (DETIN)** — **Departamento de Tecnologia da Informação e Estatística** — é a unidade responsável pelo desenvolvimento, manutenção e evolução das soluções tecnológicas do CRM-TO.
 
 Atuamos com foco em **qualidade, padronização e inovação**, entregando sistemas que modernizam processos institucionais e ampliam o valor público das atividades do Conselho.
 
