@@ -1,65 +1,76 @@
-# 🚀 Organização de TI — DETIN
+<p align="center">
+  <img src="https://img.shields.io/badge/CRM--TO-DETIN-0A7EA4?style=for-the-badge&logo=shield&logoColor=white" alt="CRM-TO DETIN"/>
+</p>
 
-Bem-vindo(a) à organização oficial do **DETIN**.  
-Aqui centralizamos os **repositórios, projetos e iniciativas técnicas** desenvolvidas pela equipe, com foco em **qualidade, padronização e inovação**.
+<h1 align="center">🚀 DETIN — Divisão de Tecnologia da Informação</h1>
 
----
+<p align="center">
+  <b>Conselho Regional de Medicina do Tocantins (CRM-TO)</b><br/>
+  Tecnologia a serviço da <b>segurança pública</b>, da <b>transparência</b> e da <b>eficiência institucional</b>.
+</p>
 
-## 📂 Projetos da Organização
-
-### 📌 PEI — Sistema de Gestão de Indicadores Estratégicos
-🔗 https://github.com/DETIN-PROJETOS/pei
-
-> **Planejamento Estratégico Institucional** do CRM-TO.  
-> Cadastro, lançamento, acompanhamento e auditoria de indicadores de desempenho, com dashboard interativo, gestão de evidências e trilha de auditoria.  
-> **Stack:** Flask + PostgreSQL 16 + Docker + Cloudflare Tunnel
-
-### 📌 Avaliação de Desempenho
-🔗 https://github.com/DETIN-PROJETOS/avaliacao-desempenho
-
-> Gestão do ciclo de avaliação de desempenho 5 vias dos colaboradores do CRM-TO.  
-> Fluxo digital com feedback 360°, devolutiva obrigatória e relatório final.  
-> **Stack:** Flask + PostgreSQL + Docker
-
-### 📌 Inadimplência — War Room 2.0
-🔗 https://github.com/DETIN-PROJETOS/inadimplentes
-
-> Gestão de inadimplência do CRM-TO. Centraliza débitos de médicos (PF) e empresas (PJ) extraídos do SIA (CFM), com mapa interativo, gráficos ECharts e pipeline de protesto em cartório.  
-> **Stack:** Python + ECharts + PostgreSQL
-
-### 📌 Arrecadação — Fiscalização
-🔗 https://github.com/DETIN-PROJETOS/arrecadacao
-
-> Sistema de Fiscalização e Arrecadação do CRM-TO.  
-> Unifica ETL da Receita Federal com base de empresas cadastradas para identificar atividades médicas não inscritas no conselho.  
-> **Stack:** Python + PostgreSQL
-
-### 📌 NPS — Pesquisa de Satisfação
-🔗 https://github.com/DETIN-PROJETOS/NPS
-
-> Pesquisa de satisfação (Net Promoter Score) para o CRM-TO.  
-> Quiosque departamental com autenticação JWT e painel administrativo estratégico.  
-> **Stack:** Python + JWT + HTML/JS
-
-### 📌 Backup Automático
-🔗 https://github.com/DETIN-PROJETOS/bakup-scripts
-
-> Scripts e sistema de backup automatizado dos projetos OpenCode.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+</p>
 
 ---
 
-## 👥 Equipe de TI
+## 🏛️ Quem somos
 
-Este espaço é mantido pela equipe de **DETIN**, responsável pelo desenvolvimento, manutenção e evolução dos sistemas institucionais.
+A **Divisão de Tecnologia da Informação (DETIN)** é a unidade responsável pelo desenvolvimento, manutenção e evolução das soluções tecnológicas do CRM-TO.
+
+Atuamos com foco em **qualidade, padronização e inovação**, entregando sistemas que modernizam processos institucionais e ampliam o valor público das atividades do Conselho.
+
+---
+
+## 🎯 Nossa missão
+
+Garantir infraestrutura, sistemas e dados confiáveis para o funcionamento do CRM-TO, transformando processos em soluções digitais **eficientes, seguras e transparentes**.
+
+---
+
+## 🧩 Áreas de atuação
+
+| Área | Atuação |
+|------|---------|
+| 🗄️ **Gestão de dados** | Integração, ETL, indicadores e relatórios estratégicos |
+| ⚙️ **Automação** | Rotinas, processos e tarefas automatizadas |
+| 💻 **Desenvolvimento** | Sistemas web institucionais e painéis gerenciais |
+| 🔒 **Segurança** | Boas práticas, controle de acesso e proteção de dados |
+| 🖥️ **Infraestrutura** | Contêineres, deploys e manutenção de ambientes |
+
+---
+
+## 📂 Repositórios públicos
+
+Por tratar de sistemas institucionais, a maioria dos nossos repositórios é **privada**. Repositórios disponibilizados publicamente serão listados aqui.
+
+*Nenhum repositório público no momento.*
 
 ---
 
 ## 📬 Contato
 
-Em caso de dúvidas, sugestões ou problemas:
-- Abra uma **Issue** no repositório correspondente  
-- Ou entre em contato com a equipe de TI pelos canais institucionais
+Em caso de dúvidas, sugestões ou solicitações institucionais:
+
+- Abra uma **issue** no repositório correspondente
+- Entre em contato pelos **canais oficiais do CRM-TO**
 
 ---
 
-🔐 *Estes repositórios podem conter informações sensíveis. Utilize com responsabilidade.*
+## 🔐 Aviso de privacidade
+
+Este espaço reúne projetos e informações de natureza **institucional**. Os repositórios podem conter dados sensíveis e não devem ser utilizados fora do contexto do CRM-TO. **Utilize com responsabilidade.**
+
+---
+
+<p align="center">
+  <i>Conselho Regional de Medicina do Tocantins — DETIN</i>
+</p>
